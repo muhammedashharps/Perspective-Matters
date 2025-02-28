@@ -1,7 +1,7 @@
 # Perspective Matters: Bridging Social Divides Through AI-Driven Debate 🌍
 # Digital Jam Hackathon
 
-## [Visit Working Prototype](https://perspectivemattersnssce.streamlit.app/)
+## [Visit Working Prototype](https://perspectivematters.streamlit.app/)
 
 > ![Prototype](intro.gif)
 
@@ -32,7 +32,7 @@ Perspective Matters is an AI-powered debate simulation app where two intelligent
 
 ## 📥 Installation & Setup (Only Android Device Supported For Now)
 You can install the app from this site: [Install The App](https://perspectivematters.streamlit.app/).
-You can visit various demo workings of the app here too: [Install The App](https://perspectivematters.streamlit.app/)
+You can visit various demo workings of the app here too: [Demos](https://perspectivematters.streamlit.app/)
 
 ## 🎯 Why This Matters
 In an era of social division and misinformation, Perspective Matters restores balanced discourse and challenges users to see beyond their biases. This app is not just a tool—it’s a step toward intellectual honesty and critical thinking.
